@@ -3,7 +3,7 @@
 ```
 gcc lab4.c lab4.s -o lab4
 ```
-## To run the `program
+## To run the program
 ```
 ./lab4 data.txt
 ```
